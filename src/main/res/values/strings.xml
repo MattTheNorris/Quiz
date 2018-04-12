@@ -1,0 +1,64 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- The app name -->
+    <string name="app_name">History Quiz</string>
+
+    <!-- Quiz Subject -->
+    <string name="quiz_subject">Iran Hostage Crisis</string>
+
+    <!-- Quiz Subject -->
+    <string name="quiz_detail">Test your basic knowledge of the incident in Tehran, Iran</string>
+
+    <!-- The user's name hint -->
+    <string name="your_name">Your Name</string>
+
+    <!-- Headers for quiz 5 questions in length -->
+    <string name="header_question_1">Question 1</string>
+    <string name="header_question_2">Question 2</string>
+    <string name="header_question_3">Question 3</string>
+    <string name="header_question_4">Question 4</string>
+    <string name="header_question_5">Question 5</string>
+
+    <!-- Strings that display quiz questions -->
+
+    <string name="question_1">In which nation did the majority of the hostages have citizenship?</string>
+    <string name="question_2">For how many days were the hostages held?</string>
+    <string name="question_3">What was the code name for the military attempt to recover the hostages?</string>
+    <string name="question_4">Which U.S. presidents were in office, while the hostages were in Iran?</string>
+
+
+    <!-- Strings to label radio button answers in question 1 -->
+
+    <string name="q1_a1">Russia</string>
+    <string name="q1_a2">France</string>
+    <string name="q1_a3">U.S.A.</string>
+
+    <!-- Question 2 answer format hint -->
+    <string name="q2_a1">Enter your answer with numerical characters only</string>
+
+    <!-- Strings to label radio button answers in question 3 -->
+
+    <string name="q3_a1">Operation Enduring Freedom</string>
+    <string name="q3_a2">Operation Eagle Claw</string>
+    <string name="q3_a3">Operation Restore Hope</string>
+
+    <!-- String to label checkbox answers for question 4-->
+
+    <string name="q4_a1">Ronald Reagan</string>
+    <string name="q4_a2">Jimmy Carter</string>
+    <string name="q4_a3">Bill Clinton</string>
+    <string name="q4_a4">George W. Bush</string>
+
+
+    <!-- String to label the submit answers button -->
+
+    <string name="submit_answers">Submit Answers</string>
+
+    <!-- Strings to provide results in toast -->
+
+    <string name="results_summary">correctly answered this many questions:</string>
+
+
+
+
+
+</resources>
